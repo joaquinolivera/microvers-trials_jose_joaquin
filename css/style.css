@@ -39,3 +39,9 @@
       height: 207px;
     }
 }
+
+@media (min-width: 600px) {
+  body {
+    font-size: 1.25rem;
+  }
+}
